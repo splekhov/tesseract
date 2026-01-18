@@ -8,4 +8,4 @@ MATCH: ./funny-staff//Screenshot 2024-09-06 at 14.45.13.png
 P.S. prerequisites: brew install tessaract  
 P.P.S. doesn't work with Russian text (todo)  
 
-[![search result](Screenshot 2024-09-06 at 14.45.13.png)](funny-stuff/Screenshot 2024-09-06 at 14.45.13.png)
+[![search result](zwei.png)](funny-stuff/zwei.png)
